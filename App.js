@@ -9,10 +9,10 @@ export default function App() {
   const [feed, setFeed] = useState([
     {
       id: '1', 
-      nome: 'Lucas Silva', 
-      descricao: 'Mais um dia de muitos bugs :)', 
-      imgperfil: 'https://sujeitoprogramador.com/instareact/fotoPerfil1.png', 
-      imgPublicacao: 'https://sujeitoprogramador.com/instareact/foto1.png',  
+      nome: 'Felipe Lopes', 
+      descricao: 'React Native CLI', 
+      imgperfil: 'https://scontent.fbsb12-2.fna.fbcdn.net/v/t31.18172-8/13346234_875455062560019_2365062070721576861_o.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=2gDlFp9DMnwAX-tMUgf&_nc_ht=scontent.fbsb12-2.fna&oh=00_AT8TYvPsMxLehVOL5IyUux1351Q_UsYlV9VhMU0B1Lo0yQ&oe=62ED2F0E',
+      imgPublicacao: 'https://scontent.fbsb12-2.fna.fbcdn.net/v/t31.18172-8/13346234_875455062560019_2365062070721576861_o.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=2gDlFp9DMnwAX-tMUgf&_nc_ht=scontent.fbsb12-2.fna&oh=00_AT8TYvPsMxLehVOL5IyUux1351Q_UsYlV9VhMU0B1Lo0yQ&oe=62ED2F0E',  
       likeada: true, 
       likers: 1
      },
